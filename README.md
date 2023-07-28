@@ -19,6 +19,12 @@
   <h3>My Skill</h3>
      <div>
      <h3>Programming Languages</h3>
+     <div>
+      <p>
+       <img src='images/javascripts.svg'/>
+       <img src='images/typescripts.svg'/>
+      </p>
+     </div>
      </div>
      
   </div>
