@@ -5,6 +5,7 @@
 <div>
   <img src='./images/ProgrammerSlide.png'/>
 </div>
+<br/>
      <div>
          <p class='about-text'>🧑‍💼 About Me:</p>
      <ul>
@@ -16,16 +17,42 @@
 
 <hr/>
   <div>
-  <h3>My Skill</h3>
+  <h3>My Skill : </h3>
      <div>
      <h3>Programming Languages</h3>
      <div>
       <p>
        <img src='images/javascripts.svg'/>
        <img src='images/typescripts.svg'/>
+       <img src='images/html.svg'/>
+       <img src='images/css.svg'/>
       </p>
      </div>
      </div>
      
+     <br/>
+     <div>
+     <h3>Web Framework</h3>
+           <div>
+      <p>
+       <img src='images/babel.svg'/>
+       <img src='images/next.svg'/>
+       <img src='images/react.svg'/>
+       <img src='images/redux.svg'/>
+       <img src='images/jaquery.svg'/>
+       <img src='images/bootstrap.svg'/>
+      </p>
+     </div>
+     </div>
+     
+  </div>
+
+  <hr/>
+  <div>
+    <h3>Mode : </h3>
+     <div>
+       <img src='./images/programmerdesktop.gif'/>
+       <img src='./images/runIMageProh=grammer.gif'/>
+     </div>
   </div>
 
