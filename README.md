@@ -1,19 +1,28 @@
-### Hi there 👋
+<html>
+ <head>
+  <link rel="stylesheet" href="./styles/styles.css"> 
+</head>
+ <body>
+ ### Hello, Welcome To My Profile 👋
+
 <div>
-  <img src='./images/download.jpg'>
+     <div>
+         <p class='about-text'>🧑‍💼 About Me:</p>
+     <ul>
+        <li>💻 I’m currently working at 👀 ...</li>
+        <li>👯 Collaborating on cool and open source projects ...</li>
+     </ul>
+     </div>
 </div>
 
+<hr/>
+  <div>
+  <h3>My Skill</h3>
+     <div>
+     <h3>Programming Languages</h3>
+     </div>
+     
+  </div>
 
-**Mohammad6495/Mohammad6495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+ </body>
+</html>
