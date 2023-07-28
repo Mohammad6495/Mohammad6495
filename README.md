@@ -1,8 +1,4 @@
-<html>
- <head>
-  <link rel="stylesheet" href="./styles/styles.css"> 
-</head>
- <body>
+
  ### Hello, Welcome To My Profile 👋
 
 <div>
@@ -24,5 +20,10 @@
      
   </div>
 
- </body>
-</html>
+
+
+<style>
+    .about-text {
+        color: red !important
+    }
+</style>
