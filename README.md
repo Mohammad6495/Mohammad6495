@@ -49,7 +49,7 @@
   <div>
     <h3>Mode : </h3>
      <div>
-       <img width='100' src='./images/programmerdesktop.gif'/>
+       <img src='./images/programmerdesktop.gif'/>
      </div>
   </div>
 
