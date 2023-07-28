@@ -3,7 +3,7 @@
 
 <div>
      <div>
-         <p class='about-text'>🧑‍💼 About Me:</p>
+         <p style="color: red;">🧑‍💼 About Me:</p>
      <ul>
         <li>💻 I’m currently working at 👀 ...</li>
         <li>👯 Collaborating on cool and open source projects ...</li>
@@ -20,10 +20,3 @@
      
   </div>
 
-
-
-<style>
-    .about-text {
-        color: red !important
-    }
-</style>
