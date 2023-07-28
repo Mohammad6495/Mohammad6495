@@ -29,9 +29,8 @@
       </p>
      </div>
      </div>
-     
-     <br/>
-     <div>
+      <br/>
+         <div>
      <h3>Web Framework</h3>
            <div>
       <p>
@@ -44,7 +43,6 @@
       </p>
      </div>
      </div>
-     
   </div>
 
   <hr/>
