@@ -43,7 +43,6 @@
       </p>
      </div>
      </div>
-     <img src='./images/runIMageProh=grammer.gif'/>
   </div>
 
   <hr/>
