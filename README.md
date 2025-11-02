@@ -60,14 +60,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammad-taghipoor&show_icons=true&theme=tokyonight&title_color=00AD4E&icon_color=00AD4E&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-taghipoor&theme=tokyonight&ring=00AD4E&fire=00AD4E&hide_border=true" height="165">
-</p>
-
----
-
-## 🌈 Contribution Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mohammad-taghipoor&theme=react-dark&bg_color=0D1117&color=00AD4E&line=00AD4E&point=00AD4E&hide_border=true" width="100%">
 </p>
 
 ---
