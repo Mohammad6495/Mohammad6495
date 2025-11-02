@@ -48,12 +48,6 @@
 ![VSCode](https://img.shields.io/badge/-VS_Code-1C1C1C?logo=visual-studio-code&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/-Notion-1C1C1C?logo=notion&logoColor=FFFFFF)
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammad-taghipoor&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</p>
 
 ---
 
